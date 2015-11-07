@@ -1,0 +1,24 @@
+{
+    "name": "keboola/ex-generic-moduleinterface",
+    "description": "Interfaces for generic extractor modules",
+    "license": "MIT",
+	"keywords": ["keboola", "ex-generic", "module"],
+    "authors": [
+        {
+            "name": "Ondrej Vana",
+            "email": "kachna@keboola.cz"
+        }
+    ],
+    "require": {
+        "php": ">5.4.0"
+    },
+	"require-dev": {
+		"phpunit/phpunit": "3.7.*",
+		"codeclimate/php-test-reporter": "dev-master"
+	},
+	"autoload": {
+		"psr-0": {
+			"Keboola\\GenericExtractor": "src/"
+		}
+	}
+}
