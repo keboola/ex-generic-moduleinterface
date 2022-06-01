@@ -5,3 +5,7 @@ Merged into https://github.com/keboola/generic-extractor in https://github.com/k
 ## License
 
 MIT licensed, see [LICENSE](./LICENSE) file.
+
+## License
+
+MIT licensed, see [LICENSE](./LICENSE) file.
